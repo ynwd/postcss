@@ -1,3 +1,3 @@
 # PostCSS & Webpack
 
-Source code of https://dev.to/ynwd/how-to-integrate-postcss-and-webpack-ed5
+repo of: https://dev.to/ynwd/how-to-integrate-tailwind-and-webpack-525d
